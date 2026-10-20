@@ -1,16 +1,46 @@
-## Hi there 👋
+Hi there 👋, I’m Mohdijas
 
-<!--
-**Mohdijas/Mohdijas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Aspiring SOC Analyst | Cybersecurity Analyst | IT Support
 
-Here are some ideas to get you started:
+BCA graduate with a strong interest in cybersecurity, security operations, and IT infrastructure. I’m passionate about learning security tools, investigating potential threats, troubleshooting technical issues, and developing practical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Education & Certification
+
+* 🎓 Bachelor of Computer Applications (BCA) — ITM College, Mayyil
+* 🛡️ CSA Certification — EC-Council
+
+🎯 Career Interests
+
+* 🔎 Security Operations Center (SOC) Analysis
+* 🛡️ Cybersecurity & Threat Detection
+* 🚨 Security Monitoring & Incident Response
+* 💻 IT Support & Troubleshooting
+* 🌐 Network & System Security
+
+🛠️ Technical Skills
+
+Add the tools and technologies you have hands-on experience with.
+
+* Operating Systems: Windows, Linux
+* Networking: TCP/IP, DNS, DHCP
+* Security: SIEM fundamentals, log analysis, threat detection
+* IT Support: Troubleshooting, system administration fundamentals
+
+🚀 Projects
+
+Projects and hands-on labs will be added here as I build my portfolio.
+
+📚 Currently Learning
+
+* SOC operations and security monitoring
+* Cybersecurity tools and techniques
+* Incident detection and response
+* IT infrastructure and networking
+
+🤝 Connect With Me
+
+* GitHub: @Mohdijas
+
+⸻
+
+⭐ Always learning. Always improving. Focused on cybersecurity and IT.
