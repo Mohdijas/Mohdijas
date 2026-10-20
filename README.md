@@ -26,9 +26,7 @@ Add the tools and technologies you have hands-on experience with.
 * Security: SIEM fundamentals, log analysis, threat detection
 * IT Support: Troubleshooting, system administration fundamentals
 
-🚀 Projects
 
-Projects and hands-on labs will be added here as I build my portfolio.
 
 📚 Currently Learning
 
